@@ -1,0 +1,97 @@
+09/01/2019 03:36:30 PM:INFO:Successully launch the browswer
+09/01/2019 03:36:33 PM:INFO:Successully enter the UserName
+09/01/2019 03:36:33 PM:INFO:Successully enter the Password
+09/01/2019 03:36:33 PM:INFO:navigate to Home page
+09/01/2019 03:36:41 PM:ERROR:Unable to logout form the application
+09/01/2019 03:36:46 PM:ERROR:The URL is not present
+09/01/2019 03:36:48 PM:ERROR:Unable to click on login button
+09/01/2019 03:36:53 PM:ERROR:Unable to logout form the application
+09/01/2019 03:41:20 PM:INFO:Successully launch the browswer
+09/01/2019 03:41:23 PM:INFO:Successully enter the UserName
+09/01/2019 03:41:23 PM:INFO:Successully enter the Password
+09/01/2019 03:41:25 PM:INFO:navigate to Home page
+09/01/2019 03:41:30 PM:ERROR:Unable to logout form the application
+09/01/2019 03:41:35 PM:ERROR:The URL is not present
+09/01/2019 03:41:37 PM:ERROR:Unable to click on login button
+09/01/2019 03:41:42 PM:ERROR:Unable to logout form the application
+09/01/2019 03:47:33 PM:INFO:Successully launch the browswer
+09/01/2019 03:47:36 PM:INFO:Successully enter the UserName
+09/01/2019 03:47:37 PM:INFO:Successully enter the Password
+09/01/2019 03:47:37 PM:INFO:navigate to Home page
+09/01/2019 03:47:43 PM:ERROR:Unable to logout form the application
+09/01/2019 03:47:49 PM:ERROR:The URL is not present
+09/01/2019 03:47:51 PM:ERROR:Unable to click on login button
+09/01/2019 03:47:56 PM:ERROR:Unable to logout form the application
+09/01/2019 03:48:46 PM:INFO:Successully launch the browswer
+09/01/2019 03:48:49 PM:INFO:Successully enter the UserName
+09/01/2019 03:48:49 PM:INFO:Successully enter the Password
+09/01/2019 03:48:49 PM:INFO:navigate to Home page
+09/01/2019 03:48:56 PM:ERROR:Unable to logout form the application
+09/01/2019 03:49:01 PM:ERROR:The URL is not present
+09/01/2019 03:49:03 PM:ERROR:Unable to click on login button
+09/01/2019 03:49:08 PM:ERROR:Unable to logout form the application
+09/01/2019 03:52:14 PM:INFO:Successully launch the browswer
+09/01/2019 03:52:17 PM:INFO:Successully enter the UserName
+09/01/2019 03:52:17 PM:INFO:Successully enter the Password
+09/01/2019 03:52:20 PM:INFO:navigate to Home page
+09/01/2019 03:52:25 PM:ERROR:Unable to logout form the application
+09/01/2019 03:53:35 PM:ERROR:The URL is not present
+09/01/2019 03:53:37 PM:ERROR:Unable to click on login button
+09/01/2019 03:53:42 PM:ERROR:Unable to logout form the application
+09/01/2019 03:58:18 PM:INFO:Successully launch the browswer
+09/01/2019 03:58:21 PM:INFO:Successully enter the UserName
+09/01/2019 03:58:21 PM:INFO:Successully enter the Password
+09/01/2019 03:58:21 PM:INFO:navigate to Home page
+09/01/2019 03:58:27 PM:ERROR:Unable to logout form the application
+09/01/2019 04:03:44 PM:ERROR:The URL is not present
+09/01/2019 04:03:50 PM:ERROR:Unable to click on login button
+09/01/2019 04:23:53 PM:INFO:Successully launch the browswer
+09/01/2019 04:24:11 PM:INFO:Successully enter the UserName
+09/01/2019 04:24:11 PM:INFO:Successully enter the Password
+09/01/2019 04:24:11 PM:INFO:navigate to Home page
+09/01/2019 04:24:20 PM:ERROR:Unable to logout form the application
+09/01/2019 04:35:56 PM:ERROR:The URL is not present
+09/01/2019 04:41:56 PM:INFO:Successully enter the UserName
+09/01/2019 04:41:56 PM:INFO:Successully enter the Password
+09/01/2019 04:41:56 PM:INFO:navigate to Home page
+09/01/2019 04:42:03 PM:ERROR:Unable to logout form the application
+09/01/2019 04:42:10 PM:ERROR:Unable to click on login button
+09/01/2019 04:42:15 PM:ERROR:Unable to logout form the application
+09/01/2019 04:43:46 PM:ERROR:Unable to click on login button
+09/01/2019 04:43:51 PM:ERROR:Unable to logout form the application
+09/01/2019 04:43:56 PM:ERROR:Unable to click on login button
+09/01/2019 04:44:01 PM:ERROR:Unable to logout form the application
+09/01/2019 04:44:34 PM:INFO:Successully enter the UserName
+09/01/2019 04:44:34 PM:INFO:Successully enter the Password
+09/01/2019 04:44:34 PM:INFO:navigate to Home page
+09/01/2019 04:44:46 PM:ERROR:Unable to logout form the application
+09/01/2019 05:42:03 PM:ERROR:Unable to load the values to the OS
+09/01/2019 05:42:05 PM:ERROR:Unable to click on login button
+09/01/2019 05:42:10 PM:ERROR:Unable to logout form the application
+09/01/2019 06:03:16 PM:ERROR:Unable to click on login button
+09/01/2019 06:03:21 PM:ERROR:Unable to logout form the application
+09/01/2019 06:16:47 PM:ERROR:Unable to click on login button
+09/01/2019 06:16:52 PM:ERROR:Unable to logout form the application
+09/01/2019 06:18:35 PM:ERROR:Unable to click on login button
+09/01/2019 06:18:40 PM:ERROR:Unable to logout form the application
+09/01/2019 06:19:27 PM:ERROR:Unable to click on login button
+09/01/2019 06:19:32 PM:ERROR:Unable to logout form the application
+10/01/2019 12:19:49 PM:ERROR:Unable to click on login button
+10/01/2019 12:19:54 PM:ERROR:Unable to logout form the application
+10/01/2019 12:22:37 PM:ERROR:Unable to click on login button
+10/01/2019 12:40:45 PM:ERROR:Unable to click on login button
+10/01/2019 12:40:50 PM:ERROR:Unable to logout form the application
+10/01/2019 12:45:31 PM:ERROR:Unable to click on login button
+10/01/2019 12:45:36 PM:ERROR:Unable to logout form the application
+10/01/2019 12:52:06 PM:ERROR:Unable to click on login button
+10/01/2019 12:52:11 PM:ERROR:Unable to logout form the application
+10/01/2019 12:52:49 PM:ERROR:Unable to click on login button
+10/01/2019 12:52:54 PM:ERROR:Unable to logout form the application
+10/01/2019 01:26:11 PM:ERROR:Unable to click on login button
+10/01/2019 01:26:16 PM:ERROR:Unable to logout form the application
+10/01/2019 01:46:43 PM:ERROR:Unable to click on login button
+10/01/2019 01:46:48 PM:ERROR:Unable to logout form the application
+10/01/2019 02:06:05 PM:ERROR:Unable to click on login button
+10/01/2019 02:06:10 PM:ERROR:Unable to logout form the application
+10/01/2019 02:09:04 PM:ERROR:Unable to load the values to the OS
+10/01/2019 02:09:14 PM:ERROR:Unable to logout form the application
